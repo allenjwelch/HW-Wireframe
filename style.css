@@ -1,0 +1,101 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+body {
+	width: 1200px;
+	height: auto;
+	margin: 15px auto;
+	background-color: #777;
+}
+
+#header {
+	width: 1200px;
+	height: 100px;
+	margin-top: 5px;
+	background-color: silver; 
+	text-align: center; 
+	padding-top: 15px;
+
+}
+
+#nav {
+	width: 1200px;
+	height: 100px;
+	margin-top: 10px;
+	background-color: silver; 
+	text-align: center; 
+	padding-top: 15px;
+
+}
+
+#section {
+	width: 700px;
+	height: 400px;
+	margin-top: 15px;
+	background-color: silver; 
+	float: left;
+}
+
+	#section_title {
+		width: auto; 
+		height: 70px;
+		background-color: silver; 
+		text-align: center;
+		padding-top: 30px;
+	}
+
+	#article {
+		width: 680px;
+		height: 250px;
+		margin: 10px; 
+		padding-top: 5px;
+		background-color: #777; 
+		text-align: center;
+	}
+
+		#art_title {
+			width: auto;
+			height: 70px;
+			margin: 0 20px;
+			margin-top: 10px; 
+			padding-top: 15px;
+			background-color: silver;
+		}
+
+		#art_par {
+			width: auto;
+			height: 70px;
+			margin: 5px 20px;
+			margin-top: 10px; 
+			padding-top: 15px;
+			background-color: silver;
+		}
+
+#aside {
+	width: 480px;
+	height: 400px;
+	margin-top: 15px;
+	margin-left: 20px;
+	background-color: silver; 
+	float: left;
+
+}
+
+/*	#section_title {
+		width: auto; 
+		height: 70px;
+		background-color: green; 
+		text-align: center;
+		padding: 30px;
+	}*/
+
+#footer {
+	clear: both;
+	width: 1200px;
+	height: 100px;
+	margin-top: 15px;
+	background-color: silver; 
+}
