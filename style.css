@@ -81,6 +81,8 @@ body {
 	margin-left: 20px;
 	background-color: silver; 
 	float: left;
+	text-align: center;
+	padding-top: 30px;
 
 }
 
@@ -98,4 +100,6 @@ body {
 	height: 100px;
 	margin-top: 15px;
 	background-color: silver; 
+	text-align: center;
+	padding-top: 30px;
 }
